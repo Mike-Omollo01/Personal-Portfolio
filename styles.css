@@ -1,0 +1,176 @@
+:root{
+    **color: .text;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(#eeeff1);
+}
+
+a {
+    color: var(--link-color):
+
+}
+
+/* NAVBAR */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 50px;
+    height: 80px;
+}
+
+nav .left a {
+    color: var(--link-color);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+nav .right a {
+    color: var(--link-color);
+    margin: 0 10px;   
+}
+
+/*SECTION 1*/
+.About-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+    margin: 50px 0;
+    margin-bottom: 100px;
+    gap: 40px;
+}
+
+.About-section .text{
+    flex: 5;
+}
+
+.About-section .text h2{
+    font-size: 45px;
+}
+
+.About-section .text .links{
+    margin-top: 25px;
+}
+
+.About-section .text .links a {
+    display: inline-block;
+    padding: 5px 10px; 
+    border: 2px solid var(--link-color);
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.About-section .headshot{
+    flex: 2;
+    display: flex;
+    justify-content: right;
+}
+
+.About-section .headshot img{
+    width: 300px;
+    border-radius: 50%;
+
+}
+
+/** SECTION 2 **/
+.Educational-section{
+    padding: 0 50px;
+    margin-bottom: 100px;
+
+}
+
+.Educational-section h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.Educational-section .text{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Educational-section .cells{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/** SECTION 3 **/
+.Intrest-section {
+    padding: 0 50px;
+    margin-bottom: 100px;
+}
+
+.Intrest-section h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+/**SECTION 4 **/
+.Contact-section{
+    padding: 0 50px;
+    margin-bottom: 100px;
+}
+
+.Contact-section h2{
+    font-size: 35px;
+
+}
+
+.Contact-section .group{
+    display: flex;
+    gap: 50px;
+}
+
+.Contact-section .group .text{
+    flex: 3;
+    margin-top: 20px;
+}
+
+.Contact-section .group form{
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.Contact-section .group form input,
+.Contact-section .group form textarea {
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+    margin-bottom: 15px;
+    outline: none;
+    resize: none;
+}
+
+.Contact-section .group form button{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    height: 50px;
+    cursor: pointer;
+}
+
+.footer {
+    text-align: center;
+}
+
+
+
+
+
