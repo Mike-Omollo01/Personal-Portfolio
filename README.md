@@ -40,7 +40,7 @@ TECHNOLOGY USED<img width="50" height="50" alt="image" src="https://github.com/u
 
  3. Google Fonts (Poppins)
 
-FOLDRE STRUCTURE<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/847ded5c-63f1-4b4d-811c-ac2d9c54fb65" />
+FOLDER STRUCTURE<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/847ded5c-63f1-4b4d-811c-ac2d9c54fb65" />
 
 
 text
