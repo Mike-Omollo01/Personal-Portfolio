@@ -1,9 +1,8 @@
-PERSONAL PORTFOLIO-MICHAEL OMOLLO<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ab583cb8-7cc1-4906-80db-345abddf2226" />
+# PERSONAL PORTFOLIO-MICHAEL OMOLLO<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ab583cb8-7cc1-4906-80db-345abddf2226" />
 
 
 Welcome to my personal portfolio website! This is a clean, responsive portfolio created using HTML and CSS to showcase my skills, background, interests, and contact information.
-
-PROJECT OVERVIEW<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10c763be-788a-4814-b8ee-e35888126926" />
+##  PROJECT OVERVIEW<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10c763be-788a-4814-b8ee-e35888126926" />
 
 
 This project is a personal portfolio designed to introduce myself, Michael Omollo, as a passionate web developer. The portfolio contains:
@@ -18,7 +17,7 @@ This project is a personal portfolio designed to introduce myself, Michael Omoll
 
  5. A Contact section with a contact form allowing visitors to send messages.
 
-FEUTURES<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ef05d9cb-7baa-4d89-ae90-379f4c29fb1a" />
+##  FEUTURES<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ef05d9cb-7baa-4d89-ae90-379f4c29fb1a" />
 
 
  1. Responsive layout optimized for multiple screen sizes.
@@ -32,7 +31,7 @@ FEUTURES<img width="50" height="50" alt="image" src="https://github.com/user-att
  5. External CSS styling linked through styles.css for clean separation of concerns.
 
 
-TECHNOLOGY USED<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4be4c53c-8219-447a-b235-fa8160b354c0" />
+##  TECHNOLOGY USED<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4be4c53c-8219-447a-b235-fa8160b354c0" />
 
  1. HTML5
 
@@ -40,7 +39,7 @@ TECHNOLOGY USED<img width="50" height="50" alt="image" src="https://github.com/u
 
  3. Google Fonts (Poppins)
 
-FOLDER STRUCTURE<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/847ded5c-63f1-4b4d-811c-ac2d9c54fb65" />
+##  FOLDER STRUCTURE<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/847ded5c-63f1-4b4d-811c-ac2d9c54fb65" />
 
 
 text
